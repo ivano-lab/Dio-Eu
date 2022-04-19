@@ -1,0 +1,21 @@
+.navbar-expand-lg {
+    background-color: #78d691;
+}
+
+.quem-somos {
+    background-color: rgb(157, 157, 207);
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color: rgb(240, 240, 150);
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
